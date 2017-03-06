@@ -2,29 +2,29 @@ Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
-    Vendor:   NVIDIA
-    VRAM:     3072 MB
-    Driver:   21.21.13.7654
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2032 MB
+    Driver:   15.201.1151.1008
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.111 seconds
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Tuki\Documents\GitHub\Module-Race\Module race_Data\Managed\System.dll (this message is harmless)
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.548 seconds
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tuki\Documents\GitHub\Module Race\Module race_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
@@ -36,7 +36,6 @@ The tree Sapin must use the Nature/Soft Occlusion shader. Otherwise billboarding
  
 (Filename:  Line: 140)
 
-UnloadTime: 3.968261 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2384 -> priority: 1 
-  Thread -> id: 2268 -> priority: 1 
+UnloadTime: 3.397125 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20f8 -> priority: 1 
